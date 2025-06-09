@@ -1,0 +1,27 @@
+# Android / Kotlin
+/android/.gradle/
+/android/build/
+/android/local.properties
+/android/android/app/build/
+/android/android/build/
+/android/.idea/
+/android/**/*.iml
+/android/gradle/wrapper/gradle-wrapper.jar
+
+# Ignore gradle cache
+/.gradle/
+/build/
+
+# Ignore API/models generated or cache files
+/api/**/*.cache
+/api/**/*.tmp
+/models/**/*.cache
+/models/**/*.tmp
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+

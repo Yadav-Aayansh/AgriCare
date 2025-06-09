@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">एग्रीकेयर</string>
+    <string name="hello_world">नमस्ते दुनिया</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+</resources>
+
